@@ -12,7 +12,7 @@ public class VariableApp {
 
         //Step 1
         String color = "black";
-        short year = 2026;
+        short year = 2026; // int would also work, but I'm practicing using other integer types.
         char middleInitial = 'I';
         boolean areThereAnyPets = false;
 
