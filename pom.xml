@@ -15,3 +15,18 @@
     </properties>
 
 </project>
+        󰣇 Pluralsight/WoorkBook-1/string-application   main  ✘? ❯git remote -v add https://github.com/YearUpLTCA26FallG07-WalenCalderon/string-application.git
+        usage: git remote add [<options>] <name> <url>
+
+    -f, --[no-]fetch      fetch the remote branches
+    --[no-]tags           import all tags and associated objects when fetching
+    or do not fetch any tag at all (--no-tags)
+    -t, --[no-]track <branch>
+    branch(es) to track
+    -m, --[no-]master <branch>
+    master branch
+    --[no-]mirror[=(push|fetch)]
+    set up remote as a mirror to push to or fetch from
+
+    󰣇 Pluralsight/WoorkBook-1/string-application   main  ✘? ❯                                                                   java    19:24
+    󰣇 Pluralsight/WoorkBook-1/string-application   main  ✘? ❯

@@ -17,11 +17,11 @@ public class VariableApp {
         boolean areThereAnyPets = false;
 
         String message = "Just the nice message";
-        System.out.println("My favorite color is: " + color);
-        System.out.println("My favorite year is: " + year);
-        System.out.println("My favorite middle initial is: " + middleInitial);
-        System.out.println("My favorite areThereAnyPets is: " + areThereAnyPets);
-        System.out.println("My favorite message is: " + message);
+        System.out.println("My favorite color is " + color + ".");
+        System.out.println("I started this class in " + year + ".");
+        System.out.println("My middle initial is " + middleInitial + ".");
+        System.out.println("The statement 'I have pets' is " + areThereAnyPets + ".");
+        System.out.println("My favorite message is: " + message + ".");
         System.out.println();
 
         //Step 2
@@ -29,10 +29,10 @@ public class VariableApp {
         double priceOfCoffe = 4.99;
         char favoriteLetter = 'W';
         boolean itIsRaining = false;
-        System.out.println("How many days are on the week " + weekDays );
-        System.out.println("The price of coffy is: " + priceOfCoffe );
-        System.out.println("The favorite letter is: " + favoriteLetter);
-        System.out.println("It is raining? " + itIsRaining);
+        System.out.println("There are " + weekDays + " days in a week.");
+        System.out.println("The price of coffee is $" + priceOfCoffe + ".");
+        System.out.println("My favorite letter is " + favoriteLetter + ".");
+        System.out.println("The statement 'it is raining' is " + itIsRaining + ".");
 
 
 

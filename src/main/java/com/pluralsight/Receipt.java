@@ -1,4 +1,4 @@
-package org.Walen;
+package com.pluralsight;
 
 
 public class Receipt {
@@ -7,7 +7,7 @@ public class Receipt {
         String banana = "banana";
         double bananaPrice = 1.00;
         int bananaQuantity = 2;
-        System.out.println("You bought " + bananaQuantity + " " + banana + " for $" + bananaPrice);
+        System.out.println("You bought " + bananaQuantity + " " + banana + "s for $" + bananaPrice + ".");
     }
 }
 
